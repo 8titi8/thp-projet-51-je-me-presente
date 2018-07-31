@@ -13,7 +13,7 @@
 
 ### Lien Heroku
 
-Pour aller sur le site en *production*, merci de suivre ce lien : [Movie Role Play](https://METTRRELIENICI.herokuapp.com/)
+Pour aller sur le site en *production*, merci de suivre ce lien : [Presentation THP Nice](https://presentation-thp-nice.herokuapp.com/)
 
 ### Marche à suivre
 
