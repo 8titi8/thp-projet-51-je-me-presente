@@ -15,6 +15,9 @@
 
 Pour aller sur le site en *production*, merci de suivre ce lien : [Presentation THP Nice](https://presentation-thp-nice.herokuapp.com/)
 
+Pour un meilleur rendu, préférez google chrome comme navigateur !  😉
+
+
 ### Marche à suivre
 
 * Pour tout avoir sur ton ordi et faire des modifs en local, écrit dans ta console :
